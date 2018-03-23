@@ -1,0 +1,4 @@
+﻿  typedump.cpp
+c:\users\elias.oh\documents\visual studio 2017\projects\typedump\typedump\typedump.cpp(30): warning C4018: '<': signed/unsigned mismatch
+  typedump.vcxproj -> C:\Users\elias.oh\documents\visual studio 2017\Projects\typedump\Debug\typedump.exe
+  typedump.vcxproj -> C:\Users\elias.oh\documents\visual studio 2017\Projects\typedump\Debug\typedump.pdb (Partial PDB)
